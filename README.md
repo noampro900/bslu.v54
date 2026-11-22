@@ -6,7 +6,7 @@ I use a zip server from BSL that I modified which was made by [lk](https://githu
 ## How to play: ##
 
 ### Server ###
-1: Download the server and extract it: wait
+1: Download the server and extract it: https://github.com/noampro900/bslu.v54/archive/refs/heads/main.zip
 
 2: Open terminal on your computer and go to server directory.
 
