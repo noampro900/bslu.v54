@@ -20,3 +20,8 @@ I use a zip server from BSL that I modified which was made by [lk](https://githu
 2: Change redirectHost (also redirectPort and offlineBattles if you need it) in the frida config (lib/arm64-v8a/libBSL.c.so)
 
 3: Enjoy playing BSL.v54!
+
+
+
+
+![img](https://raw.githubusercontent.com/noampro900/bslu.v54/refs/heads/main/img.jpeg)
